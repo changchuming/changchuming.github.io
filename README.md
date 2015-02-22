@@ -1,6 +1,6 @@
 # Chu-Ming's personal page
 
-Here I details some of the personal projects I've worked on, as well as publish my blog.
+Here I details some of the personal projects I've worked on.
 
 ## Template
 
