@@ -1,19 +1,10 @@
 ---
 layout: page
-tagline:
+title: Projects
 ---
 
-<article class="home">
-<div id="intro-text">
-	<p>Hello! I am Chu-Ming, an Electrical Engineering student at the National University of Singapore. I have a strong interest in Computer Science and I love discussing otherworldly concepts. You can find my blogs as well as my projects page on the sidebar.</p>
-	<p>Ways to contact me can also be found on the sidebar.</p>
-</div>
-</article>
-
-<div class="page-header">
-  <h1>Recent posts</h1>
-</div>
 {% for post in site.posts %}
+{% if post.categories contains 'projects' %}
 
 <article class="home">
 
@@ -34,6 +25,9 @@ tagline:
   </h2>
 
   <div>
+    {% if post.fullview %}
+    {{ post.content }}
+    {% else %}
     {% if post.shortinfo %}
     {{ post.shortinfo }}
     {% elsif post.description %}
@@ -41,9 +35,11 @@ tagline:
     {% else %}
     {{ post.excerpt }}
     {% endif %}
+    {% endif %}
   </div>
 
 </article>
+{% endif %}
 {% endfor %}
 <hr/>
 
