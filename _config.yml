@@ -1,0 +1,31 @@
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
+
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Chu-Ming
+
+description: A curious concoction of technology and philosophy.
+author:  
+  name: Chang Chu-Ming
+  email: changchuming@gmail.com
+  github: changchuming
+  facebook: changchuming
+  site: changchuming.github.io
+  bio: I am a technophile with too many interests. Here I blog about both technology-related stuff as well as philosophical thoughts.
+  email_md5: 6d35e4981839e54375182e5c2b2ca18f
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH: http://changchuming.github.io
