@@ -16,7 +16,7 @@ Based on [Bundler](http://www.cs.cornell.edu/~snavely/bundler/), an open source 
 
 You can find it [here](http://3dify.xyz).
 
-[Source](http://github.com/changchuming/3dify.xyz)
+[Source](http://github.com/changchuming/3dscanbot)
 
 ![Components]({{ site.BASE_PATH }}/assets/images/3dify1.jpg)
 ![Components]({{ site.BASE_PATH }}/assets/images/3dify2.jpg)
