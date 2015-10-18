@@ -17,16 +17,16 @@ I live in a student dormitary where the aircon controller is attached to the wal
 * 10k ohm resistor
 * Wires
 
-![Components]({{ site.BASE_PATH }}/assets/images/IMG_20150322_232433.jpg)
+![Components]({{ site.BASE_PATH }}/assets/images/aircon1.jpg)
 
 #### 1. Wiring the controller
 After testing the switches on my aircon controller, I determined that they are active-low and that a single pulse is sent whenever a switch is depressed. I connected the on/off toggle switch and the temperature control switches to pins 10, 11 and 12 on the Arduino. I then wired up the HC-06 bluetooth module to the Arduino by connecting the TX on the blueooth module to RX on the Arduino and vice-versa. Note that the bluetooth module uses a logic level of 3.3v while the Arduino uses 5v, so the TX line from the Arduino needs to be divided using a potential divider circuit to prevent it from damaging the bluetooth module. This is done by connecting a 100 ohm resistor in series and a 220 ohm resistor in parallel with it. The other line can be directly connected as the Arduino is 3.3v tolerant. The whole circuit is powered by a 9v battery. The schematic can be seen below.
 
-![Schematic]({{ site.BASE_PATH }}/assets/images/Aircon controller_bb.png)
+![Schematic]({{ site.BASE_PATH }}/assets/images/aircon2.png)
 
 <!--- The connections to the aircon controller are shown below. The black wire is the ground while the blue wires are the on/off, temp up and temp down switches. The red wire is the live wire and is not used.
 
-![Controller]({{ site.BASE_PATH }}/assets/images/IMG_20150331_132421.jpg) -->
+![Controller]({{ site.BASE_PATH }}/assets/images/aircon3.jpg) -->
 
 #### 2. Program the Arduino
 After wiring the controller, we need to make sure that the Arduino recognize signals from the bluetooth module. I programmed the Arduino to always output HIGH on pins 10, 11 and 12 unless a signal is received which will toggle the pin to LOW for half a second. This effectively mimics the pressing of the switch. The Arduino code is shown below:
@@ -92,6 +92,6 @@ Sending a '3' will decrease temperature
 
 Yes, success! The final product is shown below.
 
-![Final product]({{ site.BASE_PATH }}/assets/images/IMG_20150322_233134_1.jpg)
+![Final product]({{ site.BASE_PATH }}/assets/images/aircon4.jpg)
 
 The only caveat is that this is extremely power inefficient and the 9v battery won't last long. I am planning to replace this with an Arduino on breadboard and use a bluetooth low energy chip which can last a few months on two AA batterys. Any updates will be posted!

@@ -15,7 +15,7 @@ We were given three problem statements to choose from. Here is the one which we 
 After the workshop and the site visits, we were given time to brainstorm and come up with a solution for this problem. Our group's idea was simple - if PWDs find it hard to manage their electronic devices on the existing tray attached to their wheelchair, we will redesign it to be more user-friendly.
 
 #### Our solution
-![Components]({{ site.BASE_PATH }}/assets/images/Product.png)
+![Components]({{ site.BASE_PATH }}/assets/images/makepossible1.png)
 
 To that end, our design consists of a double-deck device holder, where the laptop will be kept below the transparent cover, and mobile devices can be strapped to the bottom of the cover. The upside of doing this is that touch-enabled devices can still be used and it prevents theft as everything is now kept underneath the cover.
 
@@ -28,4 +28,4 @@ You can see the end product in action below.
 #### Judging
 In the end, we were chosen by the judges and came first in our problem statement. The prize is of course funding to continue the project and to come up with a working prototype, so it's not the end just yet! **A big shout out to all the organizers of this event! It was really fun and I learnt a lot along the way.**
 
-![Components]({{ site.BASE_PATH }}/assets/images/11225353_1615048688734669_5312264470769329715_n.jpg)
+![Components]({{ site.BASE_PATH }}/assets/images/makepossible2.jpg)
