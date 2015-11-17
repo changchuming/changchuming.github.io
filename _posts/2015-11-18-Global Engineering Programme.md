@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Global Engineering Programme
-categories: [other]
+categories: [personal]
 tags: [global, engineering, programme, NUS]
 fullview: true
 ---
