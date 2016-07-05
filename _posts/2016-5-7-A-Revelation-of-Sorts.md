@@ -27,7 +27,7 @@ That said, I would like to make a few sweeping generalizations on cultural diffe
 
 Another observation is that in my limited interaction with Eastern Europeans (and Russians), I noticed that they seem to decide whether they like you or hate you really fast. Fortunately, I don’t think anyone decided that they *really* hated me.
 
-![Angry Baby]({{ site.BASE_PATH }}/assets/images/IMG_20160526_163232.jpg)  
+![Iceland Statue]({{ site.BASE_PATH }}/assets/images/IMG_20160526_163232.jpg)  
 **Roleplaying in Iceland.**
 
 ### Pride
