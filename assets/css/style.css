@@ -9,6 +9,10 @@ p {
 	padding-top: 10px;
 }
 
+img + em {
+	text-align: center;
+}
+
 #intro-text {
 	font-size: 1.75em;
 }

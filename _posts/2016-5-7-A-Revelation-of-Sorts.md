@@ -14,8 +14,8 @@ My exchange destination was Sweden, and when I arrived the first thing that stru
 
 Not long after I settled down in Sweden, I decided to pack my bags once again and go travelling. After all, this is a once-in-a-lifetime opportunity to explore Europe, and I wanted to visit as many places as possible. I made it a point to avoid travelling too often with fellow Singaporeans, since I tend to have this herd mentality and only stick with the group. In the end, it is really the trips that I have taken alone and the people that I’ve met along the way that defined my exchange experience. Over the period of these six months, I’ve had many thoughts and opinions, so I decided to write them down.
 
-![Components]({{ site.BASE_PATH }}/assets/images/IMG_20160506_174055.jpg)
-The angry baby in Oslo. Why is the baby angry? I've got a theory --- existential angst.
+![Angry Baby]({{ site.BASE_PATH }}/assets/images/IMG_20160506_174055.jpg)
+*The angry baby in Oslo. Why is the baby angry? I've got a theory --- existential angst.*
 
 ### All the world's a stage
 
@@ -37,8 +37,8 @@ In certain European countries, there seem to be a distinct sense of – to borro
 
 I could say that I am a little relieved and a little proud that our government is able to coerce such a diverse group of people to behave. The Economist may call us out for being undemocratic and authoritarian, but I’m content as long as we can avoid the racial riots of the past. In actuality, “coerce” may be too strong a word, and “persuade” is a little more accurate. Bottom line is, when the line is drawn in the sand you cannot bend to the whims of any group of people, be they part of the majority or minority.
 
-![Components]({{ site.BASE_PATH }}/assets/images/IMG_20160310_090811.jpg)
-It's too white... Racists!
+![Lapland]({{ site.BASE_PATH }}/assets/images/IMG_20160310_090811.jpg)
+*Swedish laplands. It's too white... Racists!*
 
 ### … and prejudice
 
@@ -48,8 +48,8 @@ It is a story we are all familiar with. Since kindergarten, kids are forced to s
 
 No, but really, PSLE, ‘O’ levels, and ‘A’ levels are probably some of the most important times in your lives, and doing well for them is your only sure way to success. Stray from this path and you’ll be trampled mercilessly underfoot the thousands of other students clamoring for a spot in university. Even when adults meet, it is customary to discuss your jobs and future, or god forbid, your children’s jobs and future. This can also manifest in more sinister ways. If you drop out of school, for example, you can be sure that most of your friends are silently judging you as a failure.
 
-![Components]({{ site.BASE_PATH }}/assets/images/IMG_20160422_193436.jpg)
-Judging my friend who is judging all those pretentious people trying to take a photo of Mona Lisa.
+![Le Louvre]({{ site.BASE_PATH }}/assets/images/IMG_20160422_193436.jpg)
+*Judging my friend who is judging all those pretentious people trying to take a photo of Mona Lisa.*
 
 Everyone’s involuntary participation in the rat race creates a culture in which we glorify achievement, and much less thought goes into our happiness. I’ve met a foreigner (a Taiwanese, no less) who asked me for my thoughts on this. I didn’t really know what to say, except that to me, it seems unavoidable. Truth is, I’ve mostly been comfortable with the rat race, and I’ve never really put much thought into it. He also questioned why so many of our cleaners and service staff are elderly, and I didn’t really have a good answer to that either.
 
@@ -59,8 +59,8 @@ Again, this may be because I’m a foreigner, but rarely have I ever met a stran
 
 Generally, it seems that the less emphasis you put on your career, the happier you tend to be. I’ve met guys who lived as though the next day will be their last, and they are happiest of the lot. Is there a way to balance happiness with competitiveness? I really have no idea, and if there was, I am not sure where the balance would lie.
 
-![Components]({{ site.BASE_PATH }}/assets/images/IMG_20160617_084625.jpg)
-One of the happpiest guys I met.
+![Happy Russian]({{ site.BASE_PATH }}/assets/images/IMG_20160617_084625.jpg)
+*One of the happpiest guys I met.*
 
 ### Veni, vidi, (vici?)
 
