@@ -70,3 +70,5 @@ Generally, it seems that the less emphasis you put on your career, the happier y
 ### Veni, vidi, (vici?)
 
 Thinking back to those articles I’ve read, I think the jury’s still out on whether travel is a way for one to “discover oneself”, or whether it’s just a self-gratifying thing to do. For me, I think it’s a little bit of both. I do want to experience foreign cultures, but I also like the satisfaction of knowing that I’ve been there, done that. One thing that I can really identify with though is the feeling of escape; the rush of excitement while visiting someplace new without a worry in the world. This feeling has really defined my exchange experience, and I am glad that I was blessed enough to have the chance to go for it.
+
+![Norway]({{ site.BASE_PATH }}/assets/images/IMG_20160509_130543_BURST8.jpg)
