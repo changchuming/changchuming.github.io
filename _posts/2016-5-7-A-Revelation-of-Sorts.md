@@ -6,7 +6,7 @@ tags: [NUS, exchange, programme, SEP, Sweden, Linkoping, University, reflection,
 fullview: true
 ---
 
-Before I left Singapore, I read about a half dozen articles on travel that my friends shared on Facebook. That’s the amazing thing about Facebook nowadays. They see that you’re clicking something and they just keep feeding you more. The downside is that your Facebook feed becomes an echo chamber, but then again, I think that I’ve read enough about that on Facebook.
+Before I left Singapore, I read about a half dozen articles on travel that my friends shared on Facebook. That’s the amazing thing about Facebook nowadays. They see that you’re clicking something and they just keep feeding you more. The downside is that your Facebook feed becomes an echo chamber, but then again, I think I’ve read enough about that on Facebook.
 
 About half of these articles extolled the virtues of travelling, while the other half denounced travellers as classist, pretentious, and overbearing. To be honest, they didn’t much have an impact on me, as I was more concerned over the practicalities of living abroad. I simply stowed these opinions away at the back of my mind. 
 
@@ -19,11 +19,16 @@ Not long after I settled down in Sweden, I decided to pack my bags once again an
 
 ### All the world's a stage
 
-I always had this preconceived notion that Westerners are a lot more extroverted, out-going and boisterous than us. After all, you always heard about the wild partying and drinking culture abroad. What surprised me was how similar people actually were. There was a spectrum of people who embodied certain traits – cool, geeky, nerdy, sensible, but one would be hard-pressed to classify them into groups. Partying in Sweden is actually more like a social gathering, where people get together, drink, and perhaps play some games. It really isn’t the kind of hair-whipping, ass-shaking partying that we’re used to think about. Sure, alcohol is cheaper there, and it is way easier to get drunk and do something stupid – there was a guy who “borrowed” our fire extinguisher and had no idea why the next morning – but the guys who partied are like you and me. Perhaps due to the scarcity of interest groups, college students in Sweden seem to bond over drinks instead. I have also heard the legend that Swedes go to bed before the pleasantries, but I’ve never experienced or witnessed that personally. The point I’m making is that most people act in the context of their cultures, and individually, they are no different at all.
+I always had this preconceived notion that Westerners are a lot more extroverted, out-going and boisterous than us. After all, you always heard about the wild partying and drinking culture abroad. What surprised me was how similar people actually were. There was a spectrum of people who embodied certain traits – cool, geeky, nerdy, sensible, but one would be hard-pressed to classify them into groups. Partying in Sweden is actually more like a social gathering, where people get together, drink, and perhaps play some games. It really isn’t the kind of hair-whipping, ass-shaking partying that we’re used to think about. 
+
+Sure, alcohol is cheaper there, and it is way easier to get drunk and do something stupid – there was a guy who “borrowed” our fire extinguisher and had no idea why the next morning – but the guys who partied are like you and me. Perhaps due to the scarcity of interest groups, college students in Sweden seem to bond over drinks instead. I have also heard the legend that Swedes go to bed before the pleasantries, but I’ve never experienced or witnessed that personally. Basically, what I'm saying is that most people act in the context of their cultures, and individually, they are no different at all.
 
 That said, I would like to make a few sweeping generalizations on cultural differences based on observations of people I’ve met. People from large countries tend to be more assured of their place in the world and tend to have a stronger take on world issues. If you go to a tourist attraction and hear a commotion, there’s a high chance that that person is from the US or China. The same can be said if you overhear someone talking about politics. Perhaps this difference boils down to the fact that there’s just so many of them, or perhaps there really is a difference between – as Ronaldo would say – a “small mentality”, and a big one.
 
 Another observation is that in my limited interaction with Eastern Europeans (and Russians), I noticed that they seem to decide whether they like you or hate you really fast. Fortunately, I don’t think anyone decided that they *really* hated me.
+
+![Angry Baby]({{ site.BASE_PATH }}/assets/images/IMG_20160526_163232.jpg)  
+**Roleplaying in Iceland.**
 
 ### Pride
 
@@ -35,7 +40,7 @@ Nevertheless, if there’s one thing you can’t deny, it is that Singapore has 
 
 In certain European countries, there seem to be a distinct sense of – to borrow the words of a famous philosopher – “Otherness”. Sub-communities exist almost disconnected from the mainstream. These are usually Eastern Europeans (less so because of similarities in culture), Middle Eastern people, or Africans. Whenever someone points out a problem with this, the standard response from politicians and media alike comes in the form of a lot of hand-waving and a few lines on diversity and acceptance. I don’t think that there is any easy way to tackle the issue, but perhaps the government needs to make the tough and unpopular decision of turning people away until they can figure out how to deal with them. Integration must be done in small steps, and that is on condition that you don’t let sub-communities form. Honestly, I worry a little for the Swedes, since they have taken in a large number of migrants recently and I can already sense slight problems festering within their otherwise admirable society. 
 
-I could say that I am a little relieved and a little proud that our government is able to coerce such a diverse group of people to behave. The Economist may call us out for being undemocratic and authoritarian, but I’m content as long as we can avoid the racial riots of the past. In actuality, “coerce” may be too strong a word, and “persuade” is a little more accurate. Bottom line is, when the line is drawn in the sand you cannot bend to the whims of any group of people, be they part of the majority or minority.
+I could say that I am a little relieved and a little proud that our government is able to coerce such a diverse group of people to behave. The Economist may call us out for being undemocratic and authoritarian, but I’m content as long as we can avoid the racial riots of the past. In actuality, “coerce” may be too strong a word, and “persuade” is a little more accurate. Bottom line is, when the line is drawn in the sand - or snow, you cannot bend to the whims of any group of people, be they part of the majority or minority.
 
 ![Lapland]({{ site.BASE_PATH }}/assets/images/IMG_20160310_090811.jpg)  
 **Swedish laplands. It's too white... _Racists_!**
@@ -46,7 +51,7 @@ Being in a situation where I was constantly traveling and almost didn’t have t
 
 It is a story we are all familiar with. Since kindergarten, kids are forced to sit through classes, remedial lessons, supplementary lessons, musical lessons, and everything else you can think of. As a result, Singaporean kids become the most irritating little know-it-all jerks I have ever seen, and that is coming from someone who likes kids. 
 
-No, but really, PSLE, ‘O’ levels, and ‘A’ levels are probably some of the most important times in your lives, and doing well for them is your only sure way to success. Stray from this path and you’ll be trampled mercilessly underfoot the thousands of other students clamoring for a spot in university. Even when adults meet, it is customary to discuss your jobs and future, or god forbid, your children’s jobs and future. This can also manifest in more sinister ways. If you drop out of school, for example, you can be sure that most of your friends are silently judging you as a failure.
+No, but really. PSLE, ‘O’ levels, and ‘A’ levels are probably some of the most important times in your lives, and doing well for them is your only sure way to success. Stray from this path and you’ll be trampled mercilessly underfoot the thousands of other students clamoring for a spot in university. Even when adults meet, it is customary to discuss your jobs and future, or god forbid, your children’s jobs and future. This can also manifest in more sinister ways. If you drop out of school, for example, you can be sure that most of your friends are silently judging you as a failure.
 
 ![Le Louvre]({{ site.BASE_PATH }}/assets/images/IMG_20160422_193436.jpg)  
 **Judging my friend who is judging all those pretentious people trying to take a photo of Mona Lisa.**
@@ -57,7 +62,7 @@ One of the great things of living in a place that is completely unfamiliar is th
 
 Again, this may be because I’m a foreigner, but rarely have I ever met a stranger’s eyes in Singapore and exchanged a smile, but it happens pretty often in Europe. I guess part of the reason is that we’re constantly rushing for time. I’ve never noticed how fast Singaporeans walk until now.
 
-Generally, it seems that the less emphasis you put on your career, the happier you tend to be. I’ve met guys who lived as though the next day will be their last, and they are happiest of the lot. Is there a way to balance happiness with competitiveness? I really have no idea, and if there was, I am not sure where the balance would lie.
+Generally, it seems that the less emphasis you put on your career, the happier you tend to be. I’ve met guys who lived as though the next day is their last, and they are happiest of the lot. Is there a way to balance happiness with competitiveness? I really have no idea, and if there was, I am not sure where the balance would lie.
 
 ![Happy Russian]({{ site.BASE_PATH }}/assets/images/IMG_20160617_084625.jpg)  
 **One of the happpiest guys I met.**
