@@ -8,7 +8,7 @@ fullview: true
 
 This is a semi-complete tower defense game I made a while ago. I am thinking of re-opening this project with a thematic and graphical rehaul. Please let me know if you're interested to collaborate.
 
-Here are some screenshots.
+Here are some screenshots. The game is available for download on Google Play [here](https://play.google.com/store/apps/details?id=com.justanothertowerdefense).
 
 ![Game Screenshot 1]({{ site.BASE_PATH }}/assets/images/Game_SS_1.png)  
 ![Game Screenshot 2]({{ site.BASE_PATH }}/assets/images/Game_SS_2.png)  
