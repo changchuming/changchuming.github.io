@@ -8,7 +8,7 @@ fullview: true
 
 Scheduleit helps you to schedule your events effortlessly. Using an intuitive click and drag interface, users can set up a schedule in under ten seconds and share the generated link with their friends.
 
-You can find it [here](http://scheduler.chums.space).
+You can find it [here](http://schedule.chums.space).
 
 [Source](http://github.com/changchuming/scheduleitfor.me)
 
