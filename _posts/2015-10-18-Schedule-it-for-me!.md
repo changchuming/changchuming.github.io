@@ -2,13 +2,13 @@
 layout: post
 title: Schedule it for me!
 categories: [projects, hacking]
-tags: [scheduler, scheduleitfor.me]
+tags: [scheduler, scheduleit]
 fullview: true
 ---
 
-Scheduleitfor.me helps you to schedule your events effortlessly. Using an intuitive click and drag interface, users can set up a schedule in under ten seconds and share the generated link with their friends.
+Scheduleit helps you to schedule your events effortlessly. Using an intuitive click and drag interface, users can set up a schedule in under ten seconds and share the generated link with their friends.
 
-You can find it [here](http://scheduleitfor.me).
+You can find it [here](http://scheduler.chums.space).
 
 [Source](http://github.com/changchuming/scheduleitfor.me)
 
