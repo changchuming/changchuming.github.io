@@ -11,9 +11,7 @@ This is a semi-complete tower defense game I made a while ago. I am thinking of 
 Here are some screenshots. The game is available for download on Google Play [here](https://play.google.com/store/apps/details?id=com.justanothertowerdefense).
 
 ![Game Screenshot 1]({{ site.BASE_PATH }}/assets/images/Game_SS_1.png)  
-
 -----
-
 ![Game Screenshot 2]({{ site.BASE_PATH }}/assets/images/Game_SS_2.png)  
 
 So far, the tower design is as follows.
