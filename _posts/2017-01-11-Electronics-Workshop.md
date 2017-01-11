@@ -16,9 +16,9 @@ Here is an overview of the topics that I'll cover -
 Bit & bytes
 Highs and lows
 Hands-On
-- Blinking LED
-- Button as input
-- Playing melody
+* Blinking LED
+* Button as input
+* Playing melody
 
 Before coming, it is *very important* that you download and install the following programs.
 * [Arduino Software](https://www.arduino.cc/en/Main/Software)
