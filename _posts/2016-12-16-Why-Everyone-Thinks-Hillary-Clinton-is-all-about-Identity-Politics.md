@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Everyone Thinks Hillary Clinton is all about Identity Politics"
-categories: [Politics]
+categories: [politics, personal]
 tags: [Hillary, Clinton, identity, politics, Vox]
 fullview: true
 ---
