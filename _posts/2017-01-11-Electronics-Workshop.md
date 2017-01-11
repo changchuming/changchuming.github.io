@@ -12,7 +12,7 @@ Everyone will get a set of the following components for the hands-on workshop.
 
 ![Materials]({{ site.BASE_PATH }}/assets/images/IMG_20170108_102630.jpg)
 
-Here is an overview of the topics that I'll cover
+Here is an overview of the topics that I'll cover  
 * Bit & bytes
 * Highs and lows
 * Hands-On
@@ -20,7 +20,7 @@ Here is an overview of the topics that I'll cover
     * Button as input
     * Playing melody
 
-Before coming, it is *very important* that you download and install the following programs.
+Before coming, it is *very important* that you download and install the following programs.  
 * [Arduino Software](https://www.arduino.cc/en/Main/Software)
 * USB drivers
      * [Windows](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH341SER_WINDOWS.zip)
