@@ -23,8 +23,8 @@ Hands-On
 Before coming, it is *very important* that you download and install the following programs.
 * [Arduino Software](https://www.arduino.cc/en/Main/Software)
 * USB drivers
- * [Windows](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH341SER_WINDOWS.zip)
- * [Mac](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH34SER_MAC_FIXED.zip)
- * [Linux](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH341SER_LINUX.ZIP)
+   * [Windows](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH341SER_WINDOWS.zip)
+   * [Mac](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH34SER_MAC_FIXED.zip)
+   * [Linux](https://github.com/changchuming/electronics-workshop/raw/master/Drivers/CH341SER_LINUX.ZIP)
 
 Materials can be found [here](https://github.com/changchuming/electronics-workshop/raw/master/Materials.zip).
