@@ -8,6 +8,8 @@ fullview: true
 
 I am running a free electronics workshop for complete beginners. If you ever wanted to find out what goes on behind the scenes in your smartphone, or how to automate simple tasks with electronics, this workshop will be perfect for you. You will acquire a high-level understanding of the basics of electronics, as well as get a hands-on experience with creating and programming an electronic toy.
 
+The sign-up link can be found [here](https://changchuming.typeform.com/to/Vq3dHG).
+
 Everyone will get a set of the following components for the hands-on workshop.
 
 ![Materials]({{ site.BASE_PATH }}/assets/images/IMG_20170108_102630.jpg)
