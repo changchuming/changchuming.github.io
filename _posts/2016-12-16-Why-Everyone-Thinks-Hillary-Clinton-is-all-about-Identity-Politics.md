@@ -13,7 +13,7 @@ A few days ago I read an [article](http://www.vox.com/policy-and-politics/2016/1
 
 The author then reveals a surprising statistic. By compiling all of Hillary Clinton’s campaign speeches and doing a word-frequency analysis, he found that the most common words in Clinton’s speeches were in fact, not about identity politics, but about economic issues.
 
-I was perplexed. If Hillary Clinton spoke mostly about economic issues, then why does it seem like all we hear about in the media are abortion rights and gun laws? Could it be that the media is skewing its representation of the presidential candidates? After all, such rhetoric _sells_. Identity politics are the centerpiece of viral, click-baity headlines which can be only be described as ‘outrage porn’.
+I was perplexed. If Hillary Clinton spoke mostly about economic issues, then why does it seem like all we hear about in the media are abortion rights and immigration laws? Could it be that the media is skewing its representation of the presidential candidates? After all, such rhetoric _sells_. Identity politics are the centerpiece of viral, click-baity headlines which can be only be described as ‘outrage porn’.
 
 To test this hypothesis, I scraped Vox for all the articles it published containing the word “Hillary” in the title and “Clinton” in the body, from the start of the Democratic primaries to the end of the general election. I then did a word-frequency analysis for the same words and in the same order as the graphic from the original article. Here are the results.
 
