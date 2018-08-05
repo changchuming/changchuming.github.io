@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Root Of All Evil Is Not Human Nature"
+title: "The Root of All Evil is not Human Nature"
 categories: [philosophy]
 tags: [problem, evil, root, all, human, nature]
 fullview: true
