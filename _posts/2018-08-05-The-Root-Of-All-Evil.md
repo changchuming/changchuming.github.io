@@ -7,7 +7,7 @@ fullview: true
 ---
 
 ![Evil]({{ site.BASE_PATH }}/assets/images/evil.jpg)
-*Image from https://www.ted.com/playlists/611/ted_talks_as_the_seven_deadly_sins*
+*<sub>Image from https://www.ted.com/playlists/611/ted_talks_as_the_seven_deadly_sins</sub>*
 
 Money, they say, is the root of all evil. Yet money is but a currency, and human beings are the ones who attach meaning to any form of transaction. Money can be used as a medium for exploitation, yet it can also uplift those living in poverty and give them a better life. Without money, we will still be stuck in the Middle Ages, haggling over how many pieces of wool to trade for a bag of wheat. 
 
