@@ -17,7 +17,7 @@ However, I would argue that evil is simply a manifestation of the physical laws 
 
 If matter can be created and destroyed at will, then much of our problems today can be solved. Hunger can be eliminated, poverty can be eradicated, and all the waste we create can be removed with the snap of a finger. Alas, this is not the case. One plus one will always equal to two. We do not have infinite resources, and thus we are forced to choose between serving ourselves and others at every turn.
 
-Scarcity, therefore, is the root of all evil. If we were able to eliminate the problem of scarcity, we would no longer have the incentive to be self-serving, to value our needs over others'. What would greed look like a world with infinite resources? If matter can be created at will, then hoarding them will be a borderline psychotic thing to do.
+Scarcity, therefore, is the root of all evil. If we were able to eliminate the problem of scarcity, we would no longer have the incentive to be self-serving, to value our needs over others'. What would greed look like in a world with infinite resources? If matter can be created at will, then hoarding them will be a borderline psychotic thing to do.
 
 Perhaps this is not a conclusion that many will come to, given our penchant for self-loathe. However, I am a strong believer in physicalism, and the idea that there is any inherent guiding force such as a soul governing our human nature does not sound credible to me. I believe we are at our core no different from any other forms of living creatures, following the same rules that gave birth to us and dictate our actions today.
 
