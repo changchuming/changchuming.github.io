@@ -229,3 +229,9 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+img.thumbnail {
+	height: 40vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
