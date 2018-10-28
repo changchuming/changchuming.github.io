@@ -230,8 +230,5 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 img.thumbnail {
-	height: 40vw;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+	height: 50vh;
 }
