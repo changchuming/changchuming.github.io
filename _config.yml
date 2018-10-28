@@ -14,14 +14,14 @@ defaults:
       title: Chang Chu-Ming
 
 description: A curious concoction of technology and philosophy.
-introduction: Hello! I am Chu-Ming, currently a software engineer at Google. I love to tinker in my free time and I love discussing otherworldly concepts as well. You can find my blogs as well as my projects page on the sidebar.
 author:  
   name: Chang Chu-Ming
+  # introduction: Chu-Ming
   email: changchuming@gmail.com
   github: changchuming
   facebook: changchuming
   site: changchuming.github.io
-  bio: I am a technophile with too many interests. Here I blog about both technology-related stuff as well as philosophical thoughts.
+  bio: A technophile with too many interests. Currently a software engineer at Google. Loves turning every conversation into a philosophical one.
   email_md5: 6d35e4981839e54375182e5c2b2ca18f
 
 rss_path: feed.xml

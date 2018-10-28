@@ -6,8 +6,7 @@ tags: [problem, evil, root, all, human, nature]
 fullview: true
 ---
 
-<img src="/assets/images/evil.jpg" height="300">
-<!-- ![Evil]({{ site.BASE_PATH }}/assets/images/evil.jpg) -->
+<img src="/assets/images/evil.jpg" height="300" class="center">
 
 *<sub>Image from https://www.ted.com/playlists/611/ted_talks_as_the_seven_deadly_sins</sub>*
 
