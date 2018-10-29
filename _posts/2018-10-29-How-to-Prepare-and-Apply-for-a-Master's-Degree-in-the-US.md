@@ -128,9 +128,9 @@ I can't give you a minimum required GPA because such information is not released
 > TK: Meeting the minimum GRE cutoff would be the most important, after that they will consider other aspects. Basically they will assess your ability to excel in the program as well as how you can apply the knowledge in the future.
 
 > CM: 
-> 1\. Statement of purpose
-> 2\. Letters of recommendation
-> 3\. Personal history
+> 1\. Statement of purpose<br>
+> 2\. Letters of recommendation<br>
+> 3\. Personal history<br>
 > GRE and GPA must pass minimum requirements. Average GPA is 3.8, average GRE scores are 157/166.
 
 #### 5. What is the program structure like?
@@ -139,8 +139,9 @@ Students typically do 9 units per quarter (3 classes) to graduate in 5 quarters 
 
 > TK: Coursework and a research thesis based on an attachment to a company. The industrial attachment is the hallmark of the program as it allows you to work in a team and apply what you have learnt in an actual problem that the company faces.
 
-> CM: 1\. Compulsory bootcamp - MBA classes everyday over a period of 2 weeks.
-2\. Roughly 2-3 technical courses per semester, you rank courses, then they assign you based on your engineering discipline and track.
+> CM: 
+1\. Compulsory bootcamp - MBA classes everyday over a period of 2 weeks.<br>
+2\. Roughly 2-3 technical courses per semester, you rank courses, then they assign you based on your engineering discipline and track.<br>
 3\. Capstone project - can be research under a professor, or working with an industry partner to produce a solution. Capstone project can be across disciplines and tracks.
 
 
