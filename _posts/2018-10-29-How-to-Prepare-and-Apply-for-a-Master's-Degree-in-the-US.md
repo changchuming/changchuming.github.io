@@ -55,7 +55,7 @@ If you have the means to, participate actively in overseas exchange programs. Th
 #### c. Keep up With Global Affairs
 You don't have to be aware of every single event that's happening around the world, but at least have an idea of the recent developments in the US and China. A lot of people hear about the US simply because it's plastered all over mainstream media, but they're pretty ill-informed when it comes to other countries. If you want to bring value to discussions rather than rehashing what everyone else already know, try to consume a healthy balance of information from different sources.
 
-D. Get to Know Your Professors
+#### D. Get to Know Your Professors
 All of your professors have gone through the same graduate system, so they're your best source of information regarding each university's domains. Furthermore, you should build that relationship simply because when the time comes, they'll be the ones writing your recommendation letters.
 
 ### 4. Application details
