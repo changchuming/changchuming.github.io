@@ -108,7 +108,7 @@ My friends D and TK have kindly shared with me their experiences in their respec
 
 
 #### 3. Are there any specific requirements for application?
-These are additional requirements on top of the documents listed in section **4**.
+These are additional requirements on top of the documents listed in **section 4**.
 
 
 > D: Bachelor's degree in a STEM field (transcripts).
