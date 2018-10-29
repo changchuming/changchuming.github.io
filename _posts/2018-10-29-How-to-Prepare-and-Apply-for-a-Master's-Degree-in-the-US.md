@@ -40,7 +40,7 @@ Most international students (excluding Singaporeans) enroll in a Master's progra
 
 If your chances are slim, you should consider whether it is even worth it for you to expend the time and money to pursue a Master's degree here. Visa notwithstanding, a Master's degree is not viewed much differently from a Bachelor's.
 
-### c. Further studies
+#### c. Further studies
 These are the rarest breed of Master's students that I've met. Typically, if you were interested in research, you would pursue a PhD, since 1) you will actually do research and 2) it's funded. However, sometimes it may just be too difficult to be admitted into a PhD program right out of college, especially if you have no prior research experience. In that case, you could pursue a Master's in the hopes of doing a PhD after. I'm not going to lie, you're probably going to have to work harder than others to achieve this. You should start to actively look for professors to do research with in your Master's program.
 
 ### 3. Preparation
@@ -71,95 +71,95 @@ So you've done your homework and application windows are opening. What do you ne
 
 Generally, these are the requirements to apply for any graduate program. Different schools may have specific requirements, so do check with the admissions department what is needed for applications beforehand.
 
-_Statement of purpose_
+###### _Statement of purpose_
 This is probably what gives students the biggest headache when it comes to college applications. What should I write in my statement of purpose? If I write about my achievements, will it come across as arrogant? Again, I cannot claim to be an expert in this and you should probably consult an admissions officer in your school. However, a general guideline for this is that you should 1) articulate your interests, 2) highlight your experiences in the field, and 3) talk about how the program fits your interests and how it would help your future development. Make sure that you are not just providing a list of achievements. Put your achievements into the context of "I am interested in *this* and therefore I did *that* to further my interest in *this*". This way, it won't come across as conceited. Remember that admissions officers are looking for character as much as academic abilities, so it is always wise to show a healthy concern for the community.
 
-_Letters of recommendations_
+##### _Letters of recommendations_
 Who should you ask to write your letters of recommendation? Typically, these are professors who are familiar with your work and are related to your field of study. This is why it's important to build relationships with your professors early on. You can also ask for recommendations from your employer during previous internships or jobs, but remember that their position has to be relevant to your field of study for their words to have any weight. For example, if your previous internship is in the F&B industry, it might be wiser to choose a professor instead.
 
-_GRE scores_
+##### _GRE scores_
 GRE scores will be sent directly to your desired universities and may take a month or more to process, so it is recommended you take your GRE at least three months before the application window closes. GRE scores are valid for 5 years. Do a quick Google search to find out what the average GRE scores of admitted students are and see where you stand.
 
-_TOEFL scores_
+##### _TOEFL scores_
 If you're Singaporean, skip this. If not, it depends on your nationality. Find out more on the school's admissions website.
 
-_Academic transcript_
+##### _Academic transcript_
 Some schools accept unofficial soft copies while others require you to mail an official hard copy to them. Again, do a quick Google search to find out the average GPA of admitted students in past years to see where you stand.
 
-_Proof of financial ability_
+##### _Proof of financial ability_
 If you're applying for an industry-focused Master's program, you are expected to be able to pay for it out of pocket. Most schools offer scholarships, but it is relatively rare to be offered one if you're an international student. Whether it is an external scholarship or a family sponsorship, you need to be able to provide proof that you can afford it. The ugly reality is that most colleges are not "need-blind", which is to say they may reject you if they think you are not financially capable of paying for your program. The budget should be around USD 70-80k for a school year, but of course it depends on the program you apply to.
 
 ### 5. Case studies
 My friends D and TK have kindly shared with me their experiences in their respective Master's programs and I have collated their responses (along with mine) here. The three of us all graduated from NUS and went on to different Master's programs in different colleges in the US.
 
 #### 1. What is your course of study?
-_D_
+##### _D_
 Master of Science, EE (Electrical Engineering), Stanford
-_TK_
+##### _TK_
 Masters of Engineering, Advanced Manufacturing and Design, MIT
-_CM_
+##### _CM_
 Masters of Engineering, EECS (Electrical Engineering and Computer Science), UC Berkeley
 
 #### 2. What are your reasons for choosing this program?
-_D_
+##### _D_
 To be honest, I chose Stanford based on reputation back then. But on hindsight, I really love the weather in the bay area all year round, the architecture and beautiful campus (people often underestimate how much these things matter in keeping you in a good mental state during the hours spent on homeworks and projects). The faculty are world renown, lecturers are very good in general, and office hours are very helpful for understanding concepts you didn't catch in class. Also, as a private university, student organizations get huge budgets which means lots of activities and free stuff for everyone throughout the year.
-_TK_
+##### _TK_
 The reputation and quality of teaching at MIT is well known within the industry and is held in high regard.
-_CM_ 
+##### _CM_ 
 I had an undergraduate degree in EE, and I wanted a program to bridge my crossover to CS. EECS is the best of both worlds. I didn't particularly like the reputation of UC Berkeley (w.r.t. protests and safety), but the program and the vicinity to the Bay Area is too perfect to give up.
 
 
 #### 3. Are there any specific requirements for application?
 These are additional requirements on top of the documents listed in section **4**.
 
-_D_
+##### _D_
 Bachelor's degree in a STEM field (transcripts).
-_TK_
+##### _TK_
 None.
-_CM_
+##### _CM_
 Personal history - Written component detailing your background and why you want to study at Berkeley.
 
 #### 4. How would you rank the application requirements in order of importance?
 These are estimations based on what we know, so please take these with a grain of salt.
 
-_D_
+##### _D_
 I would say
 1. Statement of purpose
 2. Letters of recommendation
 I can't give you a minimum required GPA because such information is not released but you should know that admissions is competitive so you probably need a high GPA anyway. I got my letters of recommendation from 2 different internship supervisors and one of which was at a research institute. I didn't see what they wrote but they were very happy with the quality of my intern work, which I think helped with my recommendations a lot.
-_TK_
+##### _TK_
 Meeting the minimum GRE cutoff would be the most important, after that they will consider other aspects. Basically they will assess your ability to excel in the program as well as how you can apply the knowledge in the future.
-_CM_
+##### _CM_
 1. Statement of purpose
 2. Letters of recommendation
 3. Personal history
 GRE and GPA must pass minimum requirements. Average GPA is 3.8, average GRE scores are 157/166.
 
 #### 5. What is the program structure like?
-_D_
+##### _D_
 45 credits to graduate - 12 units depth, 9 units breadth, 15 units technical, 9 units electives.
 Students typically do 9 units per quarter (3 classes) to graduate in 5 quarters (~1.5 years)
-_TK_
+##### _TK_
 Coursework and a research thesis based on an attachment to a company. The industrial attachment is the hallmark of the program as it allows you to work in a team and apply what you have learnt in an actual problem that the company faces.
-_CM_
+##### _CM_
 1. Compulsory bootcamp - MBA classes everyday over a period of 2 weeks.
 2. Roughly 2-3 technical courses per semester, you rank courses, then they assign you based on your engineering discipline and track.
 3. Capstone project - can be research under a professor, or working with an industry partner to produce a solution. Capstone project can be across disciplines and tracks.
 
 
 #### 6. How is the diversity of the program?
-_D_
+##### _D_
 According to the Stanford website, 33% of graduate students are international, 14% are asian american and 38% white. Most of my friends in EE are Asian American, and want to work in the bay area for startups, big tech companies or in IC design (my EE specialization is in Circuits)
-_TK_
+##### _TK_
 My peers consisted of people from around the world. Many of them have found jobs in manufacturing while some have found jobs in mechanical design. The good thing about manufacturing is that the knowledge can be applied to nearly every industry from medical, oil and gas, semiconductor, automobile, etc.
-_CM_
+##### _CM_
 Majority internationals, majority looking for employment in the US. One or two pursuing further studies. Perhaps half of them are Asian. My Singaporean friends are mostly on scholarships.
 
 #### 7. Any tips or tricks you want to share to get into your program?
 
-_D_
+##### _D_
 My impression of Stanford is that they want students to be holistically trained and be able to do very interdisciplinary work. This is very evident from the way the classes are designed. Hence, I would recommend writing in your statement of purpose about applying your domain knowledge into other fields to solve problems and any relevant research that you have done in the past. Try to find out more about faculty and what they are doing and indicate your interest in working with these professors. My opinion is that nothing works better than showing that your statement of purpose is tailored specifically to Stanford and not a generic one. Ultimately, even if you don't get into Stanford, it doesn't mean that you're not good enough, there's always a bit of luck involved with a low admissions rate.
-_TK_
+##### _TK_
 While grades may get you a spot into the interview session, its really your character, project experiences and ambition that will be the defining factor.
-_CM_
+##### _CM_
 Berkeley is well-known to be extremely liberal, so try to focus your personal history on the challenges you've encountered, as well as how you've helped others along the way.
