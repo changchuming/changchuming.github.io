@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "How-to-Prepare-and-Apply-for-a-Master's-Degree-in-the-US"
+title: "How to Prepare and Apply for a Master's Degree in the US"
 categories: [philosophy]
-tags: [problem, evil, root, all, human, nature]
+tags: [masters, degree, graduate, program, school, application, US]
 fullview: true
 ---
 
