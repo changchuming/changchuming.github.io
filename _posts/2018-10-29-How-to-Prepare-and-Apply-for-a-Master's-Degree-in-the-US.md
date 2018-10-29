@@ -120,9 +120,9 @@ These are additional requirements on top of the documents listed in **section 4*
 #### 4. How would you rank the application requirements in order of importance?
 These are estimations based on what we know, so please take these with a grain of salt.
 
-> D: I would say\
-> 1\. Statement of purpose\
-> 2\. Letters of recommendation\
+> D: I would say<br>
+> 1\. Statement of purpose<br>
+> 2\. Letters of recommendation<br>
 I can't give you a minimum required GPA because such information is not released but you should know that admissions is competitive so you probably need a high GPA anyway. I got my letters of recommendation from 2 different internship supervisors and one of which was at a research institute. I didn't see what they wrote but they were very happy with the quality of my intern work, which I think helped with my recommendations a lot.
 
 > TK: Meeting the minimum GRE cutoff would be the most important, after that they will consider other aspects. Basically they will assess your ability to excel in the program as well as how you can apply the knowledge in the future.
