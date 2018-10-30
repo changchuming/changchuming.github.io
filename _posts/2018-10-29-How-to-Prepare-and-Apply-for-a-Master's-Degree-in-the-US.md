@@ -14,7 +14,9 @@ It's that time of the year again when ambitious wide-eyed undergraduate students
 
 ### 1. Types of Master's programs
 
-Broadly speaking, there are two different kinds of Master's program out there, industry-focused and research-focused. The main differences between the two are shown in the table below. **Remember these are generalizations and specific requirements differ from program to program.**
+Broadly speaking, there are two different kinds of Master's programs out there, industry-focused and research-focused. Which should you choose? It depends on your end goal. If you're looking to enter the job market as soon as possible, go for the former. If you're looking to pursue research as a career, go for the latter. Many people will be unsure about this, especially if they have never done research work before. My general feeling is that doing research takes a particular type of personality, and most people are not cut out to become researchers. If you have the chance to, expose yourself to research work in your undergraduate studies. You'll have a taste of what research feels like and it'll help you decide what to choose in the future. If you're still unsure, the following table highlighting the main differences between the two types of programs may help you decide.
+
+**Remember these are generalizations and specific requirements differ from program to program.**
 
 |  Industry-focused Master's program  | Research-focused Master's program |
 |-------------------------------------|-----------------------------------|
@@ -25,7 +27,7 @@ Broadly speaking, there are two different kinds of Master's program out there, i
 | More industry resources             | Less industry resources           |
 | Relatively easier admission         | Relatively harder admission       |
 
-Generally, industry-focused Master's programs are catered more towards international students, since it's a cash cow for the university.
+Generally, industry-focused Master's programs are catered more towards international students, since it's a cash cow for the university. This is also why it's easier to be admitted into one.
 
 **To clarify, whatever I've written here is based off my experience of applying for an industry-focused Master's program, not a research-focused program. If you're looking to pursue a research career, these may still apply to a lesser extent, but there is no guarantee.**
 
