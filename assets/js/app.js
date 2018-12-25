@@ -1,5 +1,11 @@
 $( document ).ready(function() {
 
+	$('.thumbnail img').each(function() {
+		var currentImage = $(this);
+		currentImage.wrap("<a class='image-link' href='" + currentImage.attr("src") + "'</a>");
+	});
+	$('.image-link').magnificPopup({type:'image'});  
+
 	/* Sidebar height set */
 	$('.sidebar').css('min-height',$(document).height());
 
@@ -12,11 +18,5 @@ $( document ).ready(function() {
 	contact_list.mouseenter(function(){ scontacts.fadeIn(); });
 	
 	contact_list.mouseleave(function(){ scontacts.fadeOut(); });
-
-	$('.thumbnail img').each(function() {
-		var currentImage = $(this);
-		currentImage.wrap("<a class='image-link' href='" + currentImage.attr("src") + "'</a>");
-	});
-	$('.image-link').magnificPopup({type:'image'});  
 
 });
