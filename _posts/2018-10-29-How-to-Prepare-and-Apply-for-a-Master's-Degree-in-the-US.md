@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Prepare and Apply for a Master's Degree in the US"
-categories: [philosophy]
+categories: [personal]
 tags: [masters, degree, graduate, program, school, application, US]
 fullview: true
 ---
@@ -10,11 +10,13 @@ fullview: true
 
 *<sub>Image from https://www.youtube.com/watch?v=WI_8slDKSOU</sub>*
 
-It's that time of the year again when ambitious wide-eyed undergraduate students start applying for graduate studies. I've gotten my fair share of requests for advice, so employing the help of my friends D and TK, I've decided to compile a list of *how to prepare* and *things you should know* before applying for a Master's program overseas, specifically in the US. Please note that these are our personal opinions (mostly mine) based on our personal experiences, so they may not necessarily be accurate or applicable for your purpose.
+It's that time of the year again when ambitious wide-eyed undergraduate students start applying for graduate studies. I've gotten my fair share of requests for advice, so employing the help of my friends D and T, I've decided to compile a list of *how to prepare* and *things you should know* before applying for a Master's program overseas, specifically in the US. Please note that these are our personal opinions (mostly mine) based on our personal experiences, so they may not necessarily be accurate or applicable for your purpose.
 
 ### 1. Types of Master's programs
 
-Broadly speaking, there are two different kinds of Master's program out there, industry-focused and research-focused. The main differences between the two are shown in the table below. **Remember these are generalizations and specific requirements differ from program to program.**
+Broadly speaking, there are two different kinds of Master's programs out there, industry-focused and research-focused. Which should you choose? It depends on your end goal. If you're looking to enter the job market as soon as possible, go for the former. If you're looking to pursue research as a career, go for the latter. Many people will be unsure about this, especially if they have never done research work before. My general feeling is that doing research takes a particular type of personality, and most people are not cut out to become researchers. If you have the chance to, expose yourself to research work in your undergraduate studies. You'll have a taste of what research feels like and it'll help you decide what to choose in the future. If you're still unsure, the following table highlighting the main differences between the two types of programs may help you decide.
+
+**Remember these are generalizations and specific requirements differ from program to program.**
 
 |  Industry-focused Master's program  | Research-focused Master's program |
 |-------------------------------------|-----------------------------------|
@@ -25,7 +27,7 @@ Broadly speaking, there are two different kinds of Master's program out there, i
 | More industry resources             | Less industry resources           |
 | Relatively easier admission         | Relatively harder admission       |
 
-Generally, industry-focused Master's programs are catered more towards international students, since it's a cash cow for the university.
+Generally, industry-focused Master's programs are catered more towards international students, since it's a cash cow for the university. This is also why it's easier to be admitted into one.
 
 **To clarify, whatever I've written here is based off my experience of applying for an industry-focused Master's program, not a research-focused program. If you're looking to pursue a research career, these may still apply to a lesser extent, but there is no guarantee.**
 
@@ -90,19 +92,19 @@ Some schools accept unofficial soft copies while others require you to mail an o
 If you're applying for an industry-focused Master's program, you are expected to be able to pay for it out of pocket. Most schools offer scholarships, but it is relatively rare to be offered one if you're an international student. Whether it is an external scholarship or a family sponsorship, you need to be able to provide proof that you can afford it. The ugly reality is that most colleges are not "need-blind", which is to say they may reject you if they think you are not financially capable of paying for your program. The budget should be around USD 70-80k for a school year, but of course it depends on the program you apply to.
 
 ### 5. Case studies
-My friends D and TK have kindly shared with me their experiences in their respective Master's programs and I have collated their responses (along with mine) here. The three of us all graduated from NUS and went on to different Master's programs in different colleges in the US.
+My friends D and T have kindly shared with me their experiences in their respective Master's programs and I have collated their responses (along with mine) here. The three of us all graduated from NUS and went on to different Master's programs in different colleges in the US.
 
 #### 1. What is your course of study?
 > D: Master of Science, EE (Electrical Engineering), Stanford
 
-> TK: Masters of Engineering, Advanced Manufacturing and Design, MIT
+> T: Masters of Engineering, Advanced Manufacturing and Design, MIT
 
 > CM: Masters of Engineering, EECS (Electrical Engineering and Computer Science), UC Berkeley
 
 #### 2. What are your reasons for choosing this program?
 > D: To be honest, I chose Stanford based on reputation back then. But on hindsight, I really love the weather in the bay area all year round, the architecture and beautiful campus (people often underestimate how much these things matter in keeping you in a good mental state during the hours spent on homeworks and projects). The faculty are world renown, lecturers are very good in general, and office hours are very helpful for understanding concepts you didn't catch in class. Also, as a private university, student organizations get huge budgets which means lots of activities and free stuff for everyone throughout the year.
 
-> TK: The reputation and quality of teaching at MIT is well known within the industry and is held in high regard.
+> T: The reputation and quality of teaching at MIT is well known within the industry and is held in high regard.
  
 > CM: I had an undergraduate degree in EE, and I wanted a program to bridge my crossover to CS. EECS is the best of both worlds. I didn't particularly like the reputation of UC Berkeley (w.r.t. protests and safety), but the program and the vicinity to the Bay Area is too perfect to give up.
 
@@ -113,7 +115,7 @@ These are additional requirements on top of the documents listed in **section 4*
 
 > D: Bachelor's degree in a STEM field (transcripts).
 
-> TK: None.
+> T: None.
 
 > CM: Personal history - Written component detailing your background and why you want to study at Berkeley.
 
@@ -125,7 +127,7 @@ These are estimations based on what we know, so please take these with a grain o
 > 2\. Letters of recommendation<br>
 I can't give you a minimum required GPA because such information is not released but you should know that admissions is competitive so you probably need a high GPA anyway. I got my letters of recommendation from 2 different internship supervisors and one of which was at a research institute. I didn't see what they wrote but they were very happy with the quality of my intern work, which I think helped with my recommendations a lot.
 
-> TK: Meeting the minimum GRE cutoff would be the most important, after that they will consider other aspects. Basically they will assess your ability to excel in the program as well as how you can apply the knowledge in the future.
+> T: Meeting the minimum GRE cutoff would be the most important, after that they will consider other aspects. Basically they will assess your ability to excel in the program as well as how you can apply the knowledge in the future.
 
 > CM: 
 > 1\. Statement of purpose<br>
@@ -137,7 +139,7 @@ I can't give you a minimum required GPA because such information is not released
 > D: 45 credits to graduate - 12 units depth, 9 units breadth, 15 units technical, 9 units electives.
 Students typically do 9 units per quarter (3 classes) to graduate in 5 quarters (~1.5 years)
 
-> TK: Coursework and a research thesis based on an attachment to a company. The industrial attachment is the hallmark of the program as it allows you to work in a team and apply what you have learnt in an actual problem that the company faces.
+> T: Coursework and a research thesis based on an attachment to a company. The industrial attachment is the hallmark of the program as it allows you to work in a team and apply what you have learnt in an actual problem that the company faces.
 
 > CM: 
 1\. Compulsory bootcamp - MBA classes everyday over a period of 2 weeks.<br>
@@ -148,7 +150,7 @@ Students typically do 9 units per quarter (3 classes) to graduate in 5 quarters 
 #### 6. How is the diversity of the program?
 > D: According to the Stanford website, 33% of graduate students are international, 14% are asian american and 38% white. Most of my friends in EE are Asian American, and want to work in the bay area for startups, big tech companies or in IC design (my EE specialization is in Circuits)
 
-> TK: My peers consisted of people from around the world. Many of them have found jobs in manufacturing while some have found jobs in mechanical design. The good thing about manufacturing is that the knowledge can be applied to nearly every industry from medical, oil and gas, semiconductor, automobile, etc.
+> T: My peers consisted of people from around the world. Many of them have found jobs in manufacturing while some have found jobs in mechanical design. The good thing about manufacturing is that the knowledge can be applied to nearly every industry from medical, oil and gas, semiconductor, automobile, etc.
 
 > CM: Majority internationals, majority looking for employment in the US. One or two pursuing further studies. Perhaps half of them are Asian. My Singaporean friends are mostly on scholarships.
 
@@ -156,6 +158,6 @@ Students typically do 9 units per quarter (3 classes) to graduate in 5 quarters 
 
 > D: My impression of Stanford is that they want students to be holistically trained and be able to do very interdisciplinary work. This is very evident from the way the classes are designed. Hence, I would recommend writing in your statement of purpose about applying your domain knowledge into other fields to solve problems and any relevant research that you have done in the past. Try to find out more about faculty and what they are doing and indicate your interest in working with these professors. My opinion is that nothing works better than showing that your statement of purpose is tailored specifically to Stanford and not a generic one. Ultimately, even if you don't get into Stanford, it doesn't mean that you're not good enough, there's always a bit of luck involved with a low admissions rate.
 
-> TK: While grades may get you a spot into the interview session, its really your character, project experiences and ambition that will be the defining factor.
+> T: While grades may get you a spot into the interview session, its really your character, project experiences and ambition that will be the defining factor.
 
 > CM: Berkeley is well-known to be extremely liberal, so try to focus your personal history on the challenges you've encountered, as well as how you've helped others along the way.
