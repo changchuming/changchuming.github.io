@@ -230,5 +230,5 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 img.thumbnail {
-	height: 50vh;
+	max-height: 50vh;
 }
