@@ -54,7 +54,7 @@ I then applied the "Graphic Pen" filter in Photoshop and got a sketch-like effec
 
 <img src="/assets/images/portrait_sketch.png" class="thumbnail">
 
-The sheep vectors were downloaded free from here (https://www.vecteezy.com/vector-art/85746-cute-sheep-vectors). I imported the assets into illustrator and converted the images into vectors using the "Image Trace" function. This is important as we want the images to be engraved as a series of lines, rather than an entire blob. The final vector file to be sent for engraving is shown below.
+The sheep vectors were downloaded free from [here](https://www.vecteezy.com/vector-art/85746-cute-sheep-vectors). I imported the assets into illustrator and converted the images into vectors using the "Image Trace" function. This is important as we want the images to be engraved as a series of lines, rather than an entire blob. The final vector file to be sent for engraving is shown below.
 
 <img src="/assets/images/lasercut_everything.svg" class="thumbnail">
 
