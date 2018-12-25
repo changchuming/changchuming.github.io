@@ -42,13 +42,13 @@ The first step is to measure and set the dimensions of the box. I wanted the box
 
 The sides of the box were a little bare, so I decided to laser engrave a picture of us on the top and graphics of sheeps frolicking around on the sides. (Fun fact - Rachel means ewe in Hebrew.) I edited a photo we took this summer in Taiwan and cut out the foreground using Photoshop's "Quick Selection" tool, which is pretty magical.
 
-<img src="/assets/images/portrait_original.jpg" class="thumbnail">
-
 *<sub>Original</sub>*
 
-<img src="/assets/images/portrait_cut.jpg" class="thumbnail">
+<img src="/assets/images/portrait_original.jpg" class="thumbnail">
 
 *<sub>Cut</sub>*
+
+<img src="/assets/images/portrait_cut.jpg" class="thumbnail">
 
 I then applied the "Graphic Pen" filter in Photoshop and got a sketch-like effect as shown below.
 
@@ -62,13 +62,13 @@ The sheep vectors were downloaded free from here (https://www.vecteezy.com/vecto
 
 After cutting out the design on birch plywood, I applied wood stain to the top side of each wooden piece so that the grain stands out a little more and the colour is a little richer. Before that, pre-stain has to be applied to prevent blotching. I found that it is better to be generous with the amount of pre-stain you apply. The rationale behind this is that wood absorbs stain unevenly so you kind of saturate it with pre-stain before using actual stain. The actual stain will be more evenly absorbed as a result.
 
+*<sub>Before staining</sub>*
+
 <img src="/assets/images/stain_before.jpg" class="thumbnail">
 
-*<sub>Before staining</sub>*
+*<sub>After staining</sub>*
 
 <img src="/assets/images/stain_after.jpg" class="thumbnail">
-
-*<sub>Before staining</sub>*
 
 The under side of the wooden pieces are painted over with black paint. These will face inwards, so black paint is used to absorb as much light as possible. 
 
