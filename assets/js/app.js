@@ -13,7 +13,7 @@ $( document ).ready(function() {
 	
 	contact_list.mouseleave(function(){ scontacts.fadeOut(); });
 
-	$('.template-article img').each(function() {
+	$('.thumbnail img').each(function() {
 		var currentImage = $(this);
 		currentImage.wrap("<a class='image-link' href='" + currentImage.attr("src") + "'</a>");
 	});
