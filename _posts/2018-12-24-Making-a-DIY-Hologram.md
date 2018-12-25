@@ -28,7 +28,7 @@ I've detailed the process below. Hopefully, it'll help people who might be doing
 
 #### Finishing
 * Rust-Oleum Semi-Gloss Black Paint
-* Minwax Fast Drying Polyutherane Satin
+* Minwax Fast Drying Polyurethane Satin
 * Minwax Wood Finish Penetrating Interior Wood Stain, Cherry
 * Minwax Pre-stain Wood Conditioner
 
@@ -40,7 +40,7 @@ The first step is to measure and set the dimensions of the box. I wanted the box
 
 <img src="/assets/images/lasercut_box.svg" class="thumbnail">
 
-The sides of the box were a little bare, so I decided to laser engrave a picture of us on the top and graphics of sheeps frolicking around on the sides. (Fun fact - Rachel means ewe in Hebrew.) I edited a photo we took this summer in Taiwan and cut out the foreground using Photoshop's "Quick Selection" tool, which is pretty magical.
+The sides of the box were a little bare, so I decided to laser engrave a picture of us on the top and graphics of sheeps frolicking around on the sides. (Fun fact - Rachel means ewe in Hebrew.) I edited a photo we took this summer in California and cut out the foreground using Photoshop's "Quick Selection" tool, which is pretty magical.
 
 *<sub>Original</sub>*
 
@@ -108,7 +108,7 @@ Exec=lxterminal -e omxplayer --no-osd --win 0,0,480,320 -o both /path/to/video/f
 
 ### 4. Applying finish
 
-Finally, polyutherane is used to finish the wood. This protects the wood and gives it a shiny exterior. Being a total beginner, I had to apply and remove the finish several times before I could get the surface to be kind of even. Generally, the guide is to apply one coat, let it dry, sand over the surface, and then repeat this process three or four times. I read that you should avoid going over the same spot to fix mistakes in the same coat, but I found that it doesn't really matter if I oversaturate the surface and kind of let the excess distribute itself when drying. I know this is probably not ideal but it seems to give me the best results. The most important thing is to brush slowly and avoid air bubbles from forming. Once done, the box will have a shiny and beautiful surface. If needed, you can polish over the surface using a random orbit sander.
+Finally, polyurethane is used to finish the wood. This protects the wood and gives it a shiny exterior. Being a total beginner, I had to apply and remove the finish several times before I could get the surface to be kind of even. Generally, the guide is to apply one coat, let it dry, sand over the surface, and then repeat this process three or four times. I read that you should avoid going over the same spot to fix mistakes in the same coat, but I found that it doesn't really matter if I oversaturate the surface and kind of let the excess distribute itself when drying. I know this is probably not ideal but it seems to give me the best results. The most important thing is to brush slowly and avoid air bubbles from forming. Once done, the box will have a shiny and beautiful surface. If needed, you can polish over the surface using a random orbit sander.
 
 <img src="/assets/images/box_finished_side.jpg" class="thumbnail">
 
