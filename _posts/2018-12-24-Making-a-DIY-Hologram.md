@@ -11,11 +11,11 @@ I recently saw an [article](https://www.telegraph.co.uk/technology/mobile-phones
 
 The final result can be seen below.
 
-<iframe height="50vh" src="https://www.youtube.com/watch?v=PNDoPP2o-Co" frameborder="0" allowfullscreen></iframe>
+<iframe height="50vh" src="https://www.youtube.com/embed/PNDoPP2o-Co" frameborder="0" allowfullscreen></iframe>
 
 And here it is under normal light conditions.
 
-<iframe height="50vh" src="https://www.youtube.com/watch?v=sWWBp5LZS3E" frameborder="0" allowfullscreen></iframe>
+<iframe height="50vh" src="https://www.youtube.com/embed/sWWBp5LZS3E" frameborder="0" allowfullscreen></iframe>
 
 I've detailed the process below. Hopefully, it'll help people who might be doing similar projects.
 
@@ -52,7 +52,7 @@ The sides of the box were a little bare, so I decided to laser engrave a picture
 
 I then applied the "Graphic Pen" filter in Photoshop and got a sketch-like effect as shown below.
 
-<img src="/assets/images/portrait_sketch.jpg" class="thumbnail">
+<img src="/assets/images/portrait_sketch.png" class="thumbnail">
 
 The sheep vectors were downloaded free from here (https://www.vecteezy.com/vector-art/85746-cute-sheep-vectors). I imported the assets into illustrator and converted the images into vectors using the "Image Trace" function. This is important as we want the images to be engraved as a series of lines, rather than an entire blob. The final vector file to be sent for engraving is shown below.
 
@@ -90,7 +90,7 @@ There really isn't a need to apply as much glue as I did but I didn't know bette
 
 Once the box is assembled, I set up the Raspberry Pi Zero to display a looping 3D animation.
 
-<iframe height="50vh" src="https://www.youtube.com/watch?v=wp7WiBWxDok" frameborder="0" allowfullscreen></iframe>
+<iframe height="50vh" src="https://www.youtube.com/embed/wp7WiBWxDok" frameborder="0" allowfullscreen></iframe>
 
 This is just a stock video I found on Youtube for now. If anyone has any interesting ideas of what I can 3D model to achieve the same effect, let me know. I chose to use a Raspberry Pi Zero because it is 5 bucks a pop and I have plenty of experience with it. To connect the Raspberry Pi to the 3.5 inch TFT LCD screen, a special driver has to be used which is linked [here](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_\(A\)#Driver). A simpler solution would be to download the [pre-installed image](https://www.waveshare.com/wiki/3.5inch_RPi_LCD_\(A\)#Image) and flash the Raspberry Pi with it. Another advantage of using the pre-installed image is that a piece of necessary software named *fbcp*, which redirects HDMI output to the 3.5inch LCD screen, is pre-installed and automatically starts upon startup. This is extremely convenient as we would otherwise have to manually clone and make the [fbcp repository](https://github.com/tasanakorn/rpi-fbcp), then set up crontab to run it upon startup.
 
