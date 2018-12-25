@@ -232,3 +232,21 @@ ul.dropdown-menu>li>a>i.fa {
 img.thumbnail {
 	max-height: 50vh;
 }
+
+.mfp-wrap {
+	z-index: 3000;
+}
+
+.mfp-figure button.mfp-close {
+    cursor: pointer;
+}
+.popup-gallery a {
+    cursor: -webkit-zoom-in;
+    cursor: -moz-zoom-in;
+    cursor: zoom-in;
+}
+.mfp-figure figure {
+    cursor: -webkit-zoom-out;
+    cursor: -moz-zoom-out;
+    cursor: zoom-out;
+}
