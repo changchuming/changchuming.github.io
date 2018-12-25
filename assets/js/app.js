@@ -1,5 +1,6 @@
 $( document ).ready(function() {
 
+	alert("asdf");
 	$('.thumbnail img').each(function() {
 		var currentImage = $(this);
 		currentImage.wrap("<a class='image-link' href='" + currentImage.attr("src") + "'</a>");
