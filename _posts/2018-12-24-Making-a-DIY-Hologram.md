@@ -7,7 +7,7 @@ tags: [DIY, hologram, 3D, effect, video, tutorial]
 
 <img src="/assets/images/hologram.jpg" class="thumbnail">
 
-I recently saw an [article](https://www.telegraph.co.uk/technology/mobile-phones/11780393/How-to-turn-your-phone-into-a-3D-hologram-projector.html) that teaches you how to make a very simple hologram with a bit of plastic and a phone. I've always been fascinated by holograms, so I decided to make one for my girlfriend as a little gift and to have a bit of fun in the process. 
+I recently saw an [article](https://www.telegraph.co.uk/technology/mobile-phones/11780393/How-to-turn-your-phone-into-a-3D-hologram-projector.html) that teaches you how to make a very simple hologram with a bit of plastic and a phone. I've always been fascinated by holograms, so I decided to make one for my girlfriend as a little gift and have a bit of fun in the process. 
 
 The final result can be seen below.
 
@@ -112,6 +112,6 @@ Finally, polyutherane is used to finish the wood. This protects the wood and giv
 
 <img src="/assets/images/box_finished_side.jpg" class="thumbnail">
 
-<img src="/assets/images/box_glued_top.jpg" class="thumbnail">
+<img src="/assets/images/box_finished_top.jpg" class="thumbnail">
 
 That's it! I hope you learnt something reading this and don't be afraid to share the cool stuff you've made!
