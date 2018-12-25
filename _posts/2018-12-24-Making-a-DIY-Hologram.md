@@ -19,14 +19,14 @@ And here it is under normal light conditions.
 
 I've detailed the process below. Hopefully, it'll help people who might be doing similar projects.
 
-##### Materials
+#### Materials
 * 0.2in / 5mm Birch Plywood
 * 0.04in / 1mm Acrylic Sheet
 * Raspberry Pi Zero module
 * 3.5inch TFT LCD Display
 * Gorilla Wood Glue
 
-##### Finishing
+#### Finishing
 * Rust-Oleum Semi-Gloss Black Paint
 * Minwax Fast Drying Polyutherane Satin
 * Minwax Wood Finish Penetrating Interior Wood Stain, Cherry
