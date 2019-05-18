@@ -2,9 +2,16 @@
 <html>
 <head>
 	<meta charset="utf-8">
+	{% if page.title %}
 	<title>{{ page.title }}</title>
+	{% else %}
+	<title>{{ site.defaults.title }}</title>
+	{% endif %}
+
 	{% if page.description %}
 	<meta name="description" content="{{ page.description }}">
+	{% else %}
+	<meta name="description" content="{{ site.defaults.description }}">
 	{% endif %}
 	<meta name="author" content="{{ site.author.name }}">
 
@@ -78,7 +85,7 @@
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
 				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
-				{{ site.title }}
+				{{ site.defaults.title }}
 			</a>
 		</div>
 

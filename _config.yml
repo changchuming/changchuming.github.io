@@ -8,12 +8,8 @@ markdown: kramdown
 
 
 defaults:
-  scope:
-    path: "" # empty string for all files
-  values:
-    title: Chang Chu-Ming
-
-description: A curious concoction of technology and philosophy.
+  title: Chang Chu-Ming
+  description: A curious concoction of technology and philosophy.
 author:  
   name: Chu-Ming
   # introduction: Chu-Ming

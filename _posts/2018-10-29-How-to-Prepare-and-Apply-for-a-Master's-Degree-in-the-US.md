@@ -6,11 +6,11 @@ tags: [masters, degree, graduate, program, school, application, US]
 fullview: true
 ---
 
+It's that time of the year again when ambitious wide-eyed undergraduate students start applying for graduate studies. I've gotten my fair share of requests for advice, so employing the help of my friends D and T, I've decided to compile a list of *how to prepare* and *things you should know* before applying for a Master's program overseas, specifically in the US. Please note that these are our personal opinions (mostly mine) based on our personal experiences, so they may not necessarily be accurate or applicable for your purpose.
+
 <img src="/assets/images/colleges.jpg" class="thumbnail">
 
 *<sub>Image from https://www.youtube.com/watch?v=WI_8slDKSOU</sub>*
-
-It's that time of the year again when ambitious wide-eyed undergraduate students start applying for graduate studies. I've gotten my fair share of requests for advice, so employing the help of my friends D and T, I've decided to compile a list of *how to prepare* and *things you should know* before applying for a Master's program overseas, specifically in the US. Please note that these are our personal opinions (mostly mine) based on our personal experiences, so they may not necessarily be accurate or applicable for your purpose.
 
 ### 1. Types of Master's programs
 

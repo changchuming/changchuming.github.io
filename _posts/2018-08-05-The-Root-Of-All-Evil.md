@@ -6,11 +6,11 @@ tags: [problem, evil, root, all, human, nature]
 fullview: true
 ---
 
+Money, they say, is the root of all evil. Yet money is but a currency, and human beings are the ones who attach meaning to any form of transaction. Money can be used as a medium for exploitation, yet it can also uplift those living in poverty and give them a better life. Without money, we will still be stuck in the Middle Ages, haggling over how many pieces of wool to trade for a bag of wheat. 
+
 <img src="/assets/images/evil.jpg" class="thumbnail">
 
 *<sub>Image from https://www.ted.com/playlists/611/ted_talks_as_the_seven_deadly_sins</sub>*
-
-Money, they say, is the root of all evil. Yet money is but a currency, and human beings are the ones who attach meaning to any form of transaction. Money can be used as a medium for exploitation, yet it can also uplift those living in poverty and give them a better life. Without money, we will still be stuck in the Middle Ages, haggling over how many pieces of wool to trade for a bag of wheat. 
 
 If money is not the cause of all evil, then the perennial question remains - what is? A common response is human nature. After all, it is in our nature to be selfish, and it is also in our nature to segregate ourselves and enjoy domination over others.
 

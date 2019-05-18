@@ -6,9 +6,9 @@ tags: [electronics, workshop]
 fullview: true
 ---
 
-<img src="/assets/images/electronics.jpg" class="thumbnail">
-
 I am running a free electronics workshop for complete beginners. If you ever wanted to find out what goes on behind the scenes in your smartphone, or how to automate simple tasks with electronics, this workshop will be perfect for you. You will acquire a high-level understanding of the basics of electronics, as well as get a hands-on experience with creating and programming an electronic toy.
+
+<img src="/assets/images/electronics.jpg" class="thumbnail">
 
 The sign-up link can be found [here](https://changchuming.typeform.com/to/Vq3dHG).
 

@@ -6,9 +6,9 @@ tags: [3D, 4D, three-dimensional, fourth-dimensional, space, time, spacetime, Th
 fullview: true
 ---
 
-<img src="/assets/images/bread.png" class="thumbnail">
-
 What is the fourth dimension? Popular science tells us that it's time, but sometimes we hear people speak of a physical fourth dimension. Who is right? In truth, there is no right or wrong. Dimensions are simply a way for us to measure things over a continuous spectrum. We usually describe 3D space in terms of length, breadth and height, but who's to say which side of an object is its length? If I wanted to describe a man's length from head to toe as his breadth, I jolly well could. Perhaps, this is the reason why shorter guys tend to work out more.
+
+<img src="/assets/images/bread.png" class="thumbnail">
 
 String theory theorizes that our world has 10, or alternatively, 26 physical dimensions. We are not going to delve into that, since I'm no expert on string theory, and it is still largely theoretical. Let's just stick to the 4 dimensions that we know best.
 

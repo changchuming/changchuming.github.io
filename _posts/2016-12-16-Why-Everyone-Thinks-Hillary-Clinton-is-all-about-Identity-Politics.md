@@ -6,9 +6,9 @@ tags: [Hillary, Clinton, identity, politics, Vox]
 fullview: true
 ---
 
-<img src="/assets/images/hrc-wlf.jpeg" class="thumbnail">
-
 A few days ago I read an [article](http://www.vox.com/policy-and-politics/2016/12/16/13972394/most-common-words-hillary-clinton-speech) from Vox about Hillary Clinton. In light of her presidential defeat, people are offering up theories as to why she could never seem to find appeal amongst the masses. Her approval ratings dipped ever since she left her job as the Secretary of State, and it only worsened over the course of her presidential campaign. The article points to a common criticism people have – that Hillary Clinton ran on a campaign of identity politics, pandering to special-interest groups while shoving aside the woes of the disillusioned working-class voters. 
+
+<img src="/assets/images/hrc-wlf.jpeg" class="thumbnail">
 
 The author then reveals a surprising statistic. By compiling all of Hillary Clinton’s campaign speeches and doing a word-frequency analysis, he found that the most common words in Clinton’s speeches were in fact, not about identity politics, but about economic issues.
 
