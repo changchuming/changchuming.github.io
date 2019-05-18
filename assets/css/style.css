@@ -69,14 +69,14 @@ a.nav-link:hover { color: #777 }
 }
 
 /*adds border top to first nav box */
-#blog-list li:first-child{
+/*#blog-list li:first-child{
 	border-top: 1px #e5e5e5 solid;
-}
+}*/
 
 /*adds border to bottom nav boxes*/
-#blog-list li{
+/*#blog-list li{
 	border-bottom: 1px #e5e5e5 solid;
-}
+}*/
 
 #blog-list li {
 	font-family: "Courier New", Courier, monospace;
@@ -230,5 +230,5 @@ ul.dropdown-menu>li>a>i.fa {
 }
 
 img.thumbnail {
-	max-height: 50vh;
+	max-width: 50vw;
 }
