@@ -21,7 +21,7 @@ I bought the materials online from [Strange Materials](https://www.etsy.com/shop
 
 #### Drilling
 
-The first thing we did is mark the center of the wooden blank for where the metal ring would go. We then drilled a hole at the marking and sanded the inside smooth with a sanding bit.
+The first thing we did is mark the center of the wooden blank for where the metal ring would go. We drilled a hole at the marking and sanded the inside smooth with a sanding bit.
 
 <img src="/assets/images/drilling_ring.jpg" class="thumbnail">
 
@@ -33,7 +33,7 @@ To make the lathe-turning part easier, we sanded the wooden blank to be a rough 
 
 <img src="/assets/images/sanding_ring2.jpg" class="thumbnail">
 
-The next step is to attach the metal ring and the wooden ring. The metal ring is too smooth stick well to the wooden ring, so we sanded it to 320 grit before we applied CA glue to stick them together.
+The next step is to attach the metal ring and the wooden ring. The metal ring is too to smooth stick well to the wooden ring, so we sanded it to 320 grit before we applied CA glue to stick them together.
 
 ### Turning
 
