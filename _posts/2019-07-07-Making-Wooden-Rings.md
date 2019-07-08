@@ -34,7 +34,7 @@ To make the lathe-turning part easier, we sanded the wooden blank to be a rough 
 
 <img src="/assets/images/sanding_ring2.jpg" class="thumbnail">
 
-The next step is to attach the metal ring and the wooden ring. The metal ring is too to smooth stick well to the wooden ring, so we sanded it to 320 grit before we applied CA glue to stick them together.
+The next step is to attach the metal ring and the wooden ring. The metal ring is too smooth to stick well to the wooden ring, so we sanded it to 320 grit before we applied CA glue to stick them together.
 
 ### Turning
 
