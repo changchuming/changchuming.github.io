@@ -8,16 +8,17 @@ tags: [DIY, wooden, rings, make]
 This summer Rachel and I went to a woodworking workshop to make our own wooden rings. I never really understood how a metal band is supposed to signify our commitment to each other, so before we buy our actual rings, I figured that the experience of making rings ourselves would be a little more fun and meaningful. Neither of us have much experience in woodworking, so we took the lathe-turning workshop at [Tombalek](https://tombalek.com/) to learn the basic skills required.
 
 <img src="/assets/images/rings.jpg" class="thumbnail">
+*<sub>Rings we made</sub>*
 
 Guangjun, our instructor at Tombalek, was extremely helpful and taught us the basics of using the machines in a woodworking workshop.
 
 I bought the materials online from [Strange Materials](https://www.etsy.com/shop/StrangeMaterial?ref=yr_purchases) on Etsy and [Craft Supplies USA](https://www.woodturnerscatalog.com/p/58/6911/artisan-Comfort-Ring-Core).
 
 <img src="/assets/images/wooden_blanks.jpg" class="thumbnail">
-*<sub>Wooden Blanks</sub>*
+*<sub>Wooden blanks</sub>*
 
 <img src="/assets/images/ring_core.jpg" class="thumbnail">
-*<sub>Ring Core</sub>*
+*<sub>Ring core</sub>*
 
 #### Drilling
 
