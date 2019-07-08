@@ -10,7 +10,7 @@ This summer Rachel and I went to a woodworking workshop to make our own wooden r
 <img src="/assets/images/rings.jpg" class="thumbnail">
 *<sub>Rings we made</sub>*
 
-Guangjun, our instructor at Tombalek, was extremely helpful and taught us the basics of using the machines in a woodworking workshop.
+Cheong Keat, our instructor at Tombalek, was extremely helpful and taught us the basics of using the machines in a woodworking workshop.
 
 I bought the materials online from [Strange Materials](https://www.etsy.com/shop/StrangeMaterial?ref=yr_purchases) on Etsy and [Craft Supplies USA](https://www.woodturnerscatalog.com/p/58/6911/artisan-Comfort-Ring-Core).
 
@@ -46,7 +46,7 @@ We secured the wooden ring on the lathe and began turning them to the right shap
 
 ### Finish
 
-Lastly, we had to apply finish to make the rings shiny and protect it from the elements. We applied CA glue and Guangjun buffed the rings for us using an orbital sander.
+Lastly, we had to apply finish to make the rings shiny and protect it from the elements. We applied CA glue and Cheong Keat buffed the rings for us using an orbital sander.
 
 <img src="/assets/images/many_rings.jpg" class="thumbnail">
 *<sub>The many rings we made</sub>*
