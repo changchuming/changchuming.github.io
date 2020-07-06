@@ -23,7 +23,7 @@ Additionally, the device will be motorized, utilizing bluetooth connection to be
 
 You can see the end product in action below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rkMLn65Syps" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JVV4LWB5RU4" frameborder="0" allowfullscreen></iframe>
 
 #### Judging
 In the end, we were chosen by the judges and came first in our problem statement. The prize is of course funding to continue the project and to come up with a working prototype, so it's not the end just yet! **A big shout out to all the organizers of this event! It was really fun and I learnt a lot along the way.**
