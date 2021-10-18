@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Make-Possible
-categories: [technology, hacking, making]
+categories: [hacking, making]
 tags: [NUS, make-possible, makerthon]
 fullview: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making a Boxing Wraps Roller and Container"
-categories: [personal, DIY, making]
+categories: [making]
 tags: [DIY, boxing, wraps, roller, container, make]
 ---
 

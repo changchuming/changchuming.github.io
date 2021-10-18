@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making keychain flashlights
-categories: [technology, making]
+categories: [making]
 tags: [keychain, flashlights, 3d-printing]
 fullview: true
 ---

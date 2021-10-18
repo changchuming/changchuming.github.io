@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making a DIY Hologram"
-categories: [technology]
+categories: [making]
 tags: [DIY, hologram, 3D, effect, video, tutorial]
 ---
 

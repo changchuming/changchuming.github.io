@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to set up a wireless printer server
-categories: [technology, hacking]
+categories: [making, hacking]
 tags: [printer, server, NUS, raspberry, pi]
 fullview: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Our DIY Wooden Rings"
-categories: [personal, DIY, making]
+categories: [making]
 tags: [DIY, wooden, rings, make]
 ---
 

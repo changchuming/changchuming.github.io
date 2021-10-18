@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Electronics Workshop"
-categories: [technology]
+categories: [making]
 tags: [electronics, workshop]
 fullview: true
 ---
