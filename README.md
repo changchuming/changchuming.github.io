@@ -29,9 +29,9 @@ bundle install
 bundle exec jekyll serve --incremental
 ``` 
 
-_Notes_
-If incremental build doesn't work, use `bundle exec jekyll serve --force_polling` instead.
-If there are errors during `bundle install`, run `bundle update` to update dependencies.
+#### Notes
+* If incremental build doesn't work, use `bundle exec jekyll serve --force_polling` instead.
+* If there are errors during `bundle install`, run `bundle update` to update dependencies.
 
 
 ### License
