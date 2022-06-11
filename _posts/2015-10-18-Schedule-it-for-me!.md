@@ -12,4 +12,4 @@ You can find it [here](http://schedule.chums.space).
 
 [Source](http://github.com/changchuming/scheduleitfor.me)
 
-![Components]({{ site.BASE_PATH }}/assets/images/scheduleit.png)
+![Components]({{ site.url }}/assets/images/scheduleit.png)

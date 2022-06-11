@@ -11,7 +11,7 @@ Recently my senior (and dear friend) left Singapore for exchange in London, and 
 #### Components
 The first step, of course, is to find an SD card which acts as the hard drive for the Pi. You can buy one preloaded with NOOBS, the operating system, on their website, or you can download NOOBS onto any existing SD card which you might own. In my case, I bought one from the local Co-op and loaded NOOBS myself. At the same time, I grabbed a Wi-fi dongle from my deceased desktop, which I'll be needing later.
 
-![Components]({{ site.BASE_PATH }}/assets/images/printer1.jpg)
+![Components]({{ site.url }}/assets/images/printer1.jpg)
 
 #### 1. Enable SSH
 After booting up the Pi, the first thing that you'll want to do is to enable ssh. This way, you can control the Pi just by having it plugged into the local network, instead of having to connect it to a screen and keyboard every time.
@@ -105,6 +105,6 @@ Now that you're done setting up your Pi, we can finally get to installing the pr
 
 And you're done! All you have to do now is to mount your Pi somewhere it can receive wireless signals. I 3D-printed a case from [Thingiverse](http://www.thingiverse.com/) and mounted it on the wall beside my printer.
 
-![Final product]({{ site.BASE_PATH }}/assets/images/printer2.jpg)
+![Final product]({{ site.url }}/assets/images/printer2.jpg)
 
 Now you can add your network printer to any computer that is connected within the same network. In my case, I can print from any corner of NUS!

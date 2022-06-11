@@ -10,4 +10,4 @@ Pudge practice map is a custom map made for Warcraft III with the intended purpo
 
 You can find it [here](/assets/bin/Pudge Practice Map v3.3.w3x).
 
-![Components]({{ site.BASE_PATH }}/assets/images/pudge.jpg)
+![Components]({{ site.url }}/assets/images/pudge.jpg)

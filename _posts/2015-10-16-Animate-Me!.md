@@ -12,4 +12,4 @@ AnimateMe! is an animated illusion creator designed to help users create animate
 
 You can find it [here](/assets/bin/animateme.exe).
 
-![Components]({{ site.BASE_PATH }}/assets/images/animateme.png)
+![Components]({{ site.url }}/assets/images/animateme.png)

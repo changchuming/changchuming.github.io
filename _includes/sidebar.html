@@ -1,20 +1,20 @@
 <! -- sidebar.html -->
 
 <header class="sidebar-header" role="banner">
-	<a href="{{ site.BASE_PATH }}/">
+	<a href="{{ site.url }}/">
 		<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
 	</a>
 	<h3 class="title">
-        <a href="{{ site.BASE_PATH }}/">{{ site.author.name }}</a>
+        <a href="{{ site.url }}/">{{ site.author.name }}</a>
     </h3>
 </header>
 
 <div id="blog-list" class="text-center">
 	<ul class="list-unstyled list-inline">
-	<li class="active"><a href="{{ site.BASE_PATH }}/making">Making</a></li>
-	<li class="active"><a href="{{ site.BASE_PATH }}/philosophy">Philosophy</a></li>
-	<li class="active"><a href="{{ site.BASE_PATH }}/projects">Projects</a></li>
-	<li class="active"><a href="{{ site.BASE_PATH }}/personal">Personal</a></li>
+	<li class="active"><a href="{{ site.url }}/making">Making</a></li>
+	<li class="active"><a href="{{ site.url }}/philosophy">Philosophy</a></li>
+	<li class="active"><a href="{{ site.url }}/projects">Projects</a></li>
+	<li class="active"><a href="{{ site.url }}/personal">Personal</a></li>
 </ul>
 </div>
 
@@ -58,7 +58,7 @@
 		</li>
 		{% endif %}
 		<li>
-			<a class="btn btn-default btn-sm" href="{{ site.BASE_PATH }}/{{ site.rss_path }}">
+			<a class="btn btn-default btn-sm" href="{{ site.url }}/{{ site.rss_path }}">
 				<i class="fa fa-rss fa-lg"></i>
 			</a>
 		</li>

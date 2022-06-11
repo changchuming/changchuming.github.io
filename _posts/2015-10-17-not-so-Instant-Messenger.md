@@ -10,4 +10,4 @@ not so Instant Messenger is a simple standalone instant messenging program desig
 
 You can find it [here](/assets/bin/nsim_v4.1.zip).
 
-![Components]({{ site.BASE_PATH }}/assets/images/nsim.png)
+![Components]({{ site.url }}/assets/images/nsim.png)

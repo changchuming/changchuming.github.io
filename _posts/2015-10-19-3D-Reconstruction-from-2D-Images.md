@@ -16,6 +16,6 @@ Based on [Bundler](http://www.cs.cornell.edu/~snavely/bundler/), an open source 
 
 [Source](http://github.com/changchuming/3dscanbot)
 
-![Components]({{ site.BASE_PATH }}/assets/images/3dify1.jpg)
-![Components]({{ site.BASE_PATH }}/assets/images/3dify2.jpg)
-![Components]({{ site.BASE_PATH }}/assets/images/3dify3.jpg)
+![Components]({{ site.url }}/assets/images/3dify1.jpg)
+![Components]({{ site.url }}/assets/images/3dify2.jpg)
+![Components]({{ site.url }}/assets/images/3dify3.jpg)

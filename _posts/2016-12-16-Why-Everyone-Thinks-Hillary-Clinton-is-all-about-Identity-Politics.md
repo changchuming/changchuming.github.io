@@ -16,11 +16,11 @@ I was perplexed. If Hillary Clinton spoke mostly about economic issues, then why
 
 To test this hypothesis, I scraped Vox for all the articles it published containing the word “Hillary” in the title and “Clinton” in the body, from the start of the Democratic primaries to the end of the general election. I then did a word-frequency analysis for the same words and in the same order as the graphic from the original article. Here are the results.
 
-![Word Count]({{ site.BASE_PATH }}/assets/images/compiled-count.jpg) 
+![Word Count]({{ site.url }}/assets/images/compiled-count.jpg) 
 
 For comparison, here is the original graphic published in the Vox article.
 
-![Original Graphic]({{ site.BASE_PATH }}/assets/images/original-count.jpg) 
+![Original Graphic]({{ site.url }}/assets/images/original-count.jpg) 
 
 Just by taking a glance at the two graphs, one can immediately see a difference in Vox's coverage of Hillary Clinton versus the issues she talked about. To its credit, Vox does mention 'Economy' and 'Jobs' the most. However, if you look at the section under ‘Identity Politics’, you can see exactly which topics Vox is over-representing. ‘Abortion’, ‘Latino’, ‘Immigrant/Immigration’, and ‘Gun(s)’ are all keywords which stand out when compared to Hillary Clinton’s campaign speeches. In the other two sections, ‘Russia’, ‘ISIS’, ‘Wall Street’, ‘Minimum wage’, and ‘Trade’ are the keywords that are over-represented. With the exception of 'Trade', the rest are all keywords which divide opinion just as much as identity politics do.
 
