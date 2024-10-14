@@ -24,4 +24,4 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-url: http://changchuming.github.io #http://localhost:4000 
+url: https://changchuming.github.io #http://localhost:4000 
